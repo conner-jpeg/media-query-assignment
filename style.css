@@ -1,0 +1,124 @@
+body {
+    background-color: lightgray;
+    border-bottom-style: solid;
+    border-color: black;
+    border-bottom: 20px;
+}
+
+.navbar {
+    background-color: white;
+    padding-left :30px;
+}
+
+.container {
+    background-color: white;
+    max-width: 70%;
+    min-height: 80%;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom :50px;
+    padding-left: 20px;
+    padding-top : 20px;
+    padding-bottom :30px;
+}
+
+a { 
+    float: left;
+    color :grey;
+   }
+
+   .aOne {
+    padding :200px, 200px, 200px, 200px;
+    margin :20px
+   }
+
+   a:hover {
+       color :black;
+   }
+   a:focus {
+       color :black;
+   }
+   
+   a:active {
+    color: black;
+}
+
+img {
+       width :320px;
+       height :320px
+   }
+
+h3 {
+    color: white;
+    background-color: black;
+    border-style: solid;
+}
+
+.col-lg-4 {
+     float: left;
+ }
+ .col-lg-8 {
+     float :right;
+
+ }
+ .container2 {
+     padding-bottom: 25px;
+ } 
+
+ #lowerP {
+     padding :20px, 10px, 20px, 10px;
+     margin :20px, 10px, 20px, 10px;
+
+ }
+
+ .jumbotron {
+     background-color: white;
+     max-width: 65%;
+     min-height: 80%;
+     margin-left: 30px;
+     margin-top: 50px;
+     margin-bottom :50px;
+     padding-left: 20px;
+     padding-top : 20px;
+     padding-bottom :30px;
+ }
+
+ .pageHeader {
+    padding-top :0px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    border-bottom-style: solid;
+ }
+
+ #submitButton {
+     color :white;
+     background-color: green;
+     text-align: center;
+ }
+
+ .bortSampson {
+     width :250px;
+     height: 250px;
+     float: left;
+     border-color :black;
+     padding-top:25px;
+ }
+
+ .jumbotron2 {
+    background-color: white;
+    /*padding :20px, 10px, 20px, 10px;*/
+     float: left;
+     margin-left :25px;
+     margin-top :50px;
+     margin-bottom: 20px;
+     max-width :50%;
+     max-height :85%;  
+
+ }
+
+.portfoliopageHeader {
+    padding-top :20px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    border-bottom-style: solid;
+ }
